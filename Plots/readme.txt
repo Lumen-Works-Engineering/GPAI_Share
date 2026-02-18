@@ -1,0 +1,1 @@
+These files are the plot exports from KiCAD.
